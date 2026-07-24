@@ -39,5 +39,5 @@ int main() {
 * It is a hint to the scheduler that the current thread is willing to give up the CPU.
 * 
 * Output:-
-* Elapsed time: 128992 microseconds
+* Elapsed time: 131 microseconds
 */
